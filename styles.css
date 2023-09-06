@@ -1,0 +1,139 @@
+html{
+    font-size: 14px;
+}
+body{
+    margin:0;
+    font-family: "turnip", serif;
+    font-weight: 300;
+    background-color: #fff5ec;
+}
+header{
+    background-color: #fff;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width:10rem;
+    position: relative;
+}
+.logo img{
+    position: absolute;
+    top:-3.5rem;
+    left:calc(50% - 5rem);
+    width:8rem;
+    height: 8rem;
+    padding: 1rem;
+    border-radius: 5rem;
+    background-color: #fff;
+}
+h1{
+    display:none;
+}
+nav a{
+    color:#7d001b;
+    text-decoration: none;
+    font-weight: 700;
+    padding:1rem;
+    margin:1rem;
+}
+nav a:hover{
+    color:#bb212f;
+    text-decoration: underline;
+}
+h2, h3, h4{
+    color:#004644;
+}
+hr{
+    border:1.5px solid #004644;
+}
+.hr{
+    position: relative;
+}
+.hr:before, .hr:after{
+    content:" ";
+    width: 6px;
+    height:6px;
+    border-radius: 3px;
+    background-color: #004644;
+    position: absolute;
+    top:-2.25px;
+}
+.hr:before{
+    left:-1px;
+}
+.hr:after{
+    right:-1px;
+}
+main{
+    max-width: 60rem;
+    margin:4rem 1rem 2rem;
+}
+table{
+    text-align: left;
+    width:100%;
+    max-width: 30rem;
+    margin: 1rem 0;
+}
+thead{
+    font-weight: 500;
+    font-size: .8rem;
+}
+thead th{
+    color:#004644;
+    font-size: 1.25rem;
+}
+tbody th, tbody td{
+    padding:.25rem 0;
+}
+td{
+    text-align: right;
+}
+.waffles div{
+    margin:1rem 0;
+    display:flex;
+    flex-wrap:wrap;
+    align-items: baseline;
+}
+.waffles *{
+    margin:0 1rem 0 0;
+    font-size: 1rem;
+}
+.waffles>div>p:last-child{
+    flex-basis:100%;
+}
+th, strong{
+    font-weight: 500;
+}
+footer{
+    background-color: #004644;
+    color:#fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding:1rem;
+}
+footer a, footer h2, footer h3{
+    color:#fff;
+}
+footer h2{
+    margin:0;
+}
+.social{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+.social a>img{
+    width:3rem;
+    height: 3rem;
+}
+@media (min-width:1000px){
+    main{
+        margin:4rem auto 2rem;
+    }
+}
