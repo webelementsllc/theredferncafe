@@ -60,6 +60,15 @@ p{
 img{
     max-width: 100%;
 }
+a{
+    color: #006968;
+    font-weight: 700;
+    text-decoration: none;
+}
+a:hover{
+    color: #004644;
+    text-decoration: underline;
+}
 .button, button{
     color:#fff;
     background-color: #004644;
@@ -244,10 +253,27 @@ footer h2{
     main.menu{
         margin:40vh auto 2rem;
     }
+    main{
+        margin-top: 12rem;
+    }
     .headline{
         height: 40vh;
     }
     footer{
         justify-content: space-between;
+    }
+    .logo, .home>.logo{
+        width:16rem;
+    }
+    .home>.logo{
+        left: calc(50% - 8rem);
+    }
+    .logo img{
+        top:-5rem;
+        left:0;
+        width:12rem;
+        height: 12rem;
+        padding:2rem;
+        border-radius: 8rem;
     }
 }
