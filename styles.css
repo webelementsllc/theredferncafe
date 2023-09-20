@@ -133,7 +133,7 @@ section{
     z-index: 3;
     cursor: pointer;
 }
-.home div:first-child{
+.home>div:first-child{
     background-image: url(public/images/homepage.jpg);
     background-size: cover;
     height: 25rem;
