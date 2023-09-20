@@ -8,7 +8,12 @@ body{
     background-color: #fff5ec;
 }
 header{
-    background-color: #fff;
+    background-color: #7d001b;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left:0;
+    z-index: 1;
 }
 nav{
     display: flex;
@@ -33,18 +38,42 @@ h1{
     display:none;
 }
 nav a{
-    color:#7d001b;
+    color:#fff;
     text-decoration: none;
     font-weight: 700;
     padding:1rem;
     margin:1rem;
 }
 nav a:hover{
-    color:#bb212f;
+    color:#fff;
+    text-decoration: underline;
+}
+nav a.active{
     text-decoration: underline;
 }
 h2, h3, h4{
     color:#004644;
+}
+p{
+    line-height: 1.5rem;
+}
+img{
+    max-width: 100%;
+}
+.button, button{
+    color:#fff;
+    background-color: #004644;
+    padding:1rem;
+    font-family: "turnip", serif;
+    font-weight: 500;
+    border:0;
+    border-radius: .5rem;
+    box-shadow: 2px 2px 2px #00000095;
+    text-decoration: none;
+    display: inline-block;
+}
+.button:hover, button:hover{
+    background-color: #006968;
 }
 hr{
     border:1.5px solid #004644;
@@ -68,8 +97,47 @@ hr{
     right:-1px;
 }
 main{
+    background-color: #fff5ec;
+    margin:8rem 0 2rem;
+}
+main.menu{
+    margin:20rem 0 2rem;
+}
+section{
+    padding:2rem 1rem;
     max-width: 60rem;
-    margin:4rem 1rem 2rem;
+    margin: auto;
+}
+.home nav>.logo img{
+    display: none;
+}
+.home>.logo{
+    position: sticky;
+    top:1.5rem;
+    display: block;
+    left:calc(50% - 5rem);
+    z-index: 1;
+    width:10rem;
+    height:10rem;
+    border-radius: 5rem;
+    margin-top: 15rem;
+    z-index: 3;
+    cursor: pointer;
+}
+.home div:first-child{
+    background-image: url(public/images/homepage.jpg);
+    background-size: cover;
+    height: 25rem;
+    background-position: center;
+    position: fixed;
+    top:0;
+    width:100%;
+    left:0;
+    height: 30rem;
+    z-index: -1;
+}
+.button ~ p{
+    margin-bottom: 3rem;
 }
 table{
     text-align: left;
@@ -91,6 +159,18 @@ tbody th, tbody td{
 td{
     text-align: right;
 }
+.headline{
+    background-image: url(public/images/red-fern-waffle.jpeg);
+    background-size: cover;
+    background-position: bottom -4rem center;
+    height: 30vh;
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+    top:0;
+    left:0;
+    margin:0;
+}
 .waffles div{
     margin:1rem 0;
     display:flex;
@@ -111,8 +191,10 @@ footer{
     background-color: #004644;
     color:#fff;
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     align-items: flex-end;
+    gap: 1rem;
     padding:1rem;
 }
 footer a, footer h2, footer h3{
@@ -132,8 +214,40 @@ footer h2{
     width:3rem;
     height: 3rem;
 }
+@media (min-width:700px){
+    .headline{
+        background-position: bottom -10rem center;
+        height: 35vh;
+    }
+    main.menu{
+        margin-top: 35vh;
+    }
+    .gallery{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        background-color: #fff;
+    }
+    .gallery img{
+        height: 25vh;
+    }
+    .pic-n-text{
+        display: flex;
+        gap: 2rem;
+    }
+    .pic-n-text img{
+        width: 33%;
+    }
+}
 @media (min-width:1000px){
-    main{
-        margin:4rem auto 2rem;
+    main.menu{
+        margin:40vh auto 2rem;
+    }
+    .headline{
+        height: 40vh;
+    }
+    footer{
+        justify-content: space-between;
     }
 }
