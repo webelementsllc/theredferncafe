@@ -253,6 +253,9 @@ footer h2{
     main.menu{
         margin:40vh auto 2rem;
     }
+    .home>main{
+        margin-top:5rem;
+    }
     main{
         margin-top: 12rem;
     }
