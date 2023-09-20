@@ -133,9 +133,10 @@ section{
     z-index: 3;
     cursor: pointer;
 }
-.home>div:first-child{
+.home>.headline{
     background-image: url(public/images/homepage.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     height: 25rem;
     background-position: center;
     position: fixed;
