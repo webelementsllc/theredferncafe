@@ -1,0 +1,4 @@
+public/uploads/
+public/images/uploads/
+/config.txt
+.git
