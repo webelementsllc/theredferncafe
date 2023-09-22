@@ -25,6 +25,7 @@ nav{
     position: relative;
 }
 .logo img{
+    border:2px solid transparent;
     position: absolute;
     top:-3.5rem;
     left:calc(50% - 5rem);
@@ -33,6 +34,9 @@ nav{
     padding: 1rem;
     border-radius: 5rem;
     background-color: #fff;
+}
+.logo img:hover{
+    border:2px solid #bb212f;
 }
 h1{
     display:none;
@@ -83,6 +87,7 @@ a:hover{
 }
 .button:hover, button:hover{
     background-color: #006968;
+    color:#fff;
 }
 hr{
     border:1.5px solid #004644;
@@ -134,7 +139,7 @@ section{
     cursor: pointer;
 }
 .home>.headline{
-    background-image: url(public/images/homepage.jpg);
+    background-image: url(/images/homepage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 25rem;
@@ -170,7 +175,7 @@ td{
     text-align: right;
 }
 .headline{
-    background-image: url(public/images/red-fern-waffle.jpeg);
+    background-image: url(/images/red-fern-waffle.jpeg);
     background-size: cover;
     background-position: bottom -4rem center;
     height: 30vh;
@@ -270,7 +275,7 @@ footer h2{
         width:16rem;
     }
     .home>.logo{
-        left: calc(50% - 8rem);
+        left: calc(50% - 9rem);
     }
     .logo img{
         top:-5rem;
