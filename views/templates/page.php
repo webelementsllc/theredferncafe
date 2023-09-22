@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Red Fern Cafe</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/css/styles.css">
     <link rel="stylesheet" href="https://use.typekit.net/ycb0xxj.css">
     <link rel="apple-touch-icon" sizes="180x180" href="public/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="public/images/favicon/favicon-32x32.png">
@@ -24,31 +24,7 @@
             <a href="menu.html">Menu</a>
         </nav>
     </header>
-    <a href="index.html" class="logo"><h1>The Red Fern Cafe</h1><img src="public/images/red-fern-logo.svg" alt="The Red Fern Cafe"></a>
-    <div class="headline"></div>
-    <main>
-        <section>
-            <h2>The Red Fern Cafe</h2>
-            <div class="hr"><hr></div>
-            <p>A coffee and waffle bar where you can find a cozy spot and settle in. We have a variety of board games to play and snacks to fuel the soul.</p><a href="menu.html" class="button">View Our Menu</a>
-        </section>
-        <section>
-            <h2>Hours</h2>
-            <div class="hr"><hr></div>
-            <p><strong>Monday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Tuesday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Wednesday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Thursday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Friday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Saturday</strong> 5:30 am - 2 pm</p>
-            <p><strong>Sunday</strong> 5:30 am - 2 pm</p>
-        </section>
-        <section>
-            <h2>Artists</h2>
-            <div class="hr"><hr></div>
-            <p>The Red Fern Cafe loves highlighting local artists! Every 3 months, a new artist will be able to hang their artwork up in the cafe. <a href="mailto:theredferncafe@gmail.com">Contact us</a> and submit some work for review!</p>
-        </section>
-    </main>
+	<?=$content?>
     <footer>
         <div>
             <p>The Red Fern Cafe</p>
