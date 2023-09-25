@@ -18,8 +18,6 @@ f()->template->bodyClass = 'home';
 		<p><strong>Wednesday</strong> 5:30 am - 2 pm</p>
 		<p><strong>Thursday</strong> 5:30 am - 2 pm</p>
 		<p><strong>Friday</strong> 5:30 am - 2 pm</p>
-		<p><strong>Saturday</strong> 5:30 am - 2 pm</p>
-		<p><strong>Sunday</strong> 5:30 am - 2 pm</p>
 	</section>
 	<section>
 		<h2>Artists</h2>
