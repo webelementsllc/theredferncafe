@@ -29,7 +29,7 @@
 					<td>$3.25</td>
 				</tr>
 				<tr>
-					<th scope="row">Cappucino</th>
+					<th scope="row">Cappuccino</th>
 					<td>$4.25</td>
 					<td>$4.55</td>
 				</tr>
