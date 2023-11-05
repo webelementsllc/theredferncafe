@@ -13,11 +13,9 @@ f()->template->bodyClass = 'home';
 	<section>
 		<h2>Hours</h2>
 		<div class="hr"><hr></div>
-		<p><strong>Monday</strong> 5:30 am - 2 pm</p>
-		<p><strong>Tuesday</strong> 5:30 am - 2 pm</p>
+		<p><strong>Monday - Tuesday</strong> 5:30 am - 12 pm</p>
 		<p><strong>Wednesday</strong> Closed</p>
-		<p><strong>Thursday</strong> 5:30 am - 2 pm</p>
-		<p><strong>Friday</strong> 5:30 am - 2 pm</p>
+		<p><strong>Thursday - Friday</strong> 5:30 am - 12 pm, 3 pm - 7 pm</p>
 		<p><strong>Saturday &amp; Sunday</strong> Occassional Hours - please check our <a href="https://www.facebook.com/profile.php?id=61550757692586">facebook page</a> for weekend hours</p>
 	</section>
 	<section>
