@@ -253,5 +253,57 @@
 		<div>
 			<p>~ $0.25 off discount for usage of reusable cup/container</p>
 		</div>
+		<div class="hr"><hr/></div>
+		<h3>To Go Breakfast</h3>
+		<h4>Bagels</h4>
+		<div class="waffles">
+			<div>
+				<h5>Bagel</h5>
+				<p>$2.50</p>
+				<p></p>
+			</div>
+			<div>
+				<h5>Bagel with Smear</h5>
+				<p>$4.50</p>
+				<p></p>
+			</div>
+			<div>
+				<h5>Eggie Bagel</h5>
+				<p>$6.99</p>
+				<p>ham, egg, and cheese<br>~ Extra ham, egg, or cheese for $0.99 each</p>
+			</div>
+			<div>
+				<h5>Herbie Bagel</h5>
+				<p>$6.99</p>
+				<p>tomato, greens, and goat cheese</p>
+			</div>
+			<div>
+				<h5>Sweetie Pie Bagel</h5>
+				<p>$6.99</p>
+				<p>sweet cream and pie filling</p>
+			</div>
+		</div>
+		<h4>Wraps</h4>
+		<div class="waffles">
+			<div>
+				<h5>Eggie Wrap</h5>
+				<p>$6.99</p>
+				<p>ham, egg, and cheese<br>~ Extra ham, egg, or cheese for $0.99 each</p>
+			</div>
+			<div>
+				<h5>Herbie Wrap</h5>
+				<p>$6.99</p>
+				<p>tomato, greens, and goat cheese<br>~ with ham $7.99</p>
+			</div>
+		</div>
+		<div class="hr"><hr/></div>
+		<h3>Desserts</h3>
+		<div class="waffles">
+			<div>
+				<h5>Waffle Cake</h5>
+				<p>$40</p>
+				<p>Four layers of waffle, each layer topped with a single pie filling of your choice. Options for pie filling are apple, strawberry, blueberry, and raspberry. Choices of frosting are buttercream (vanilla or chocolate) or whipped cream.<br>~ Please allow 48 hours for completion of cake order.</p>
+			</div>
+		</div>
 	</section>
 </main>
