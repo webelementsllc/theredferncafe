@@ -191,6 +191,10 @@
 					<th>Extra Topping</th>
 					<td>$0.99</td>
 				</tr>
+				<tr>
+					<th>Extra Waffle</th>
+					<td>$6.00</td>
+				</tr>
 			</tbody>
 		</table>
 		<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble, graham cracker crumble, granola, ham, cheddar, lettuce, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
@@ -255,7 +259,6 @@
 		</div>
 		<div class="hr"><hr/></div>
 		<h3>To Go Breakfast</h3>
-		<h4>Bagels</h4>
 		<div class="waffles">
 			<div>
 				<h5>Bagel</h5>
@@ -283,7 +286,8 @@
 				<p>sweet cream and pie filling</p>
 			</div>
 		</div>
-		<h4>Wraps</h4>
+		<div class="hr"><hr></div>
+		<h3>To Go Lunch</h3>
 		<div class="waffles">
 			<div>
 				<h5>Eggie Wrap</h5>
@@ -295,6 +299,11 @@
 				<p>$6.99</p>
 				<p>tomato, greens, and goat cheese<br>~ with ham $7.99</p>
 			</div>
+			<div>
+				<h5>Sir Hampton Wrap</h5>
+				<p>$6.99</p>
+				<p>ham, cheese, spring greens<br>~ optional sauce: mayo or raspberry jam</p>
+			</div>
 		</div>
 		<div class="hr"><hr/></div>
 		<h3>Desserts</h3>
@@ -304,6 +313,15 @@
 				<p>$40</p>
 				<p>Four layers of waffle, each layer topped with a single pie filling of your choice. Options for pie filling are apple, strawberry, blueberry, and raspberry. Choices of frosting are buttercream (vanilla or chocolate) or whipped cream.<br>~ Please allow 48 hours for completion of cake order.</p>
 			</div>
+		</div>
+		<div class="hr"><hr/></div>
+		<h3>Catering</h3>
+		<div class="waffles">
+			<h5>Waffles and Toppings</h5>
+			<p>$6 per waffle<br>
+			$4 per 4 oz. container of topping<br>or</p>
+			<p>$75 for a dozen waffles and two 4 oz. containers of toppings</p>
+			<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble, graham cracker crumble, granola, ham, cheddar, lettuce, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
 		</div>
 	</section>
 </main>
