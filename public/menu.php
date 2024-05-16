@@ -311,7 +311,7 @@
 			<div>
 				<h5>Waffle Cake</h5>
 				<p>$40</p>
-				<p>Four layers of waffle, each layer topped with a single pie filling of your choice. Options for pie filling are apple, strawberry, blueberry, and raspberry. Choices of frosting are buttercream (vanilla or chocolate) or whipped cream.<br>~ Please allow 48 hours for completion of cake order.</p>
+				<p>Four layers of waffle, each layer topped with a single pie filling of your choice. Options for pie filling are cranberry, strawberry, blueberry, and raspberry. Choices of frosting are buttercream (vanilla or chocolate) or whipped cream.<br>~ Please allow 48 hours for completion of cake order.</p>
 			</div>
 		</div>
 		<div class="hr"><hr/></div>

@@ -14,7 +14,7 @@ f()->template->bodyClass = 'home';
 		<h2>Hours</h2>
 		<div class="hr"><hr></div>
 		<p><strong>Monday - Friday</strong> 6 am - 12 pm (Food service stops at 11:30 am)</p>
-		<p><strong>Fridays</strong> 3 pm - 7 pm</p>
+		<p><strong>Friday Evenings</strong> 3 pm - 5 pm</p>
 		<p><strong>Saturdays</strong> By Chance (check <a href="https://www.facebook.com/profile.php?id=61550757692586">Facebook</a> posts)</p>
 		<p><strong>Sundays</strong> Closed</p>
 	</section>
