@@ -58,11 +58,16 @@ nav a.active{
 h2, h3, h4{
     color:#004644;
 }
+h3{
+    font-size: 1.25rem;
+}
 p{
     line-height: 1.5rem;
 }
 img{
     max-width: 100%;
+    display:inline-block;
+    margin:1rem 0;
 }
 a{
     color: #006968;
@@ -118,7 +123,7 @@ main.menu{
     margin:20rem 0 2rem;
 }
 section{
-    padding:2rem 1rem;
+    padding:1rem 1rem;
     max-width: 60rem;
     margin: auto;
 }
@@ -167,6 +172,7 @@ thead{
 thead th{
     color:#004644;
     font-size: 1.25rem;
+    text-decoration: underline;
 }
 tbody th, tbody td{
     padding:.25rem 0;
@@ -194,7 +200,15 @@ td{
 }
 .waffles *{
     margin:0 1rem 0 0;
-    font-size: 1rem;
+}
+.waffles p>a{
+    margin:0;
+}
+h3{
+    text-decoration: underline;
+}
+.waffles h4{
+    color:#000;
 }
 .waffles>div>p:last-child{
     flex-basis:100%;
@@ -229,6 +243,20 @@ footer h2{
     width:3rem;
     height: 3rem;
 }
+figure{
+    margin:0;
+    position: relative;
+}
+figcaption{
+    position: absolute;
+    bottom: 1.25rem;
+    left: 0;
+    width: 100%;
+    height: 1.5rem;
+    background: rgba(0, 0, 0, .6);
+    color: #fff;
+    text-align: center;
+}
 @media (min-width:700px){
     .headline{
         background-position: bottom -10rem center;
@@ -253,6 +281,23 @@ footer h2{
     }
     .pic-n-text img{
         width: 33%;
+    }
+    .one-two{
+        display:grid;
+        grid-template-columns: 2fr 3fr;
+        gap:1rem;
+    }
+    .two-one{
+        display:grid;
+        grid-template-columns: 3fr 2fr;
+        gap:1rem;
+    }
+    .two-one .hr{
+        grid-column:1/3;
+        align-self: center;
+    }
+    .two-one .hr:before, .two-one .hr:after{
+        top:4.5px;
     }
 }
 @media (min-width:1000px){

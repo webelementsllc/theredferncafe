@@ -4,324 +4,366 @@
 	<section>
 		<h2>Menu</h2>
 		<div class="hr"><hr></div>
-		<table>
-			<thead>
-				<tr>
-					<th class="coffee">Coffee</th>
-					<td>Small 12 oz</td>
-					<td>Large 16 oz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<th scope="row">Drip Coffee</th>
-					<td>$1.95</td>
-					<td>$2.45</td>
-				</tr>
-				<tr>
-					<th scope="row">Café Misto</th>
-					<td>$3.50</td>
-					<td>$4.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Americano</th>
-					<td>$2.75</td>
-					<td>$3.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Cappuccino</th>
-					<td>$4.25</td>
-					<td>$4.55</td>
-				</tr>
-				<tr>
-					<th scope="row">Latte</th>
-					<td>$3.95</td>
-					<td>$4.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Chai</th>
-					<td>$4.45</td>
-					<td>$4.75</td>
-				</tr>
-				<tr>
-					<th scope="row">Matcha</th>
-					<td>$4.25</td>
-					<td>$4.75</td>
-				</tr>
-				<tr>
-					<th scope="row">Mocha</th>
-					<td>$4.75</td>
-					<td>$5.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Cold Brew</th>
-					<td>$3.95</td>
-					<td>$4.45</td>
-				</tr>
-				<tr>
-					<th scope="row">Hot Chocolate</th>
-					<td>$3.00</td>
-					<td>$3.50</td>
-				</tr>
-				<tr>
-					<th scope="row">Shot in the Dark</th>
-					<td>$2.75</td>
-					<td>$3.95</td>
-				</tr>
-				<tr>
-					<th scope="row">Espresso Shots</th>
-					<td>single $2.00</td>
-					<td>double $2.50</td>
-				</tr>
-				<tr>
-					<th scope="row">Cafe con Miel</th>
-					<td>$4.25</td>
-					<td>$4.55</td>
-				</tr>
-				<tr>
-					<th scope="row">Breve</th>
-					<td>$4.55</td>
-					<td>$5.00</td>
-				</tr>
-				<tr>
-					<th scope="row">Dirty Chai</th>
-					<td>$5.25</td>
-					<td>$5.50</td>
-				</tr>
-				<tr>
-					<th scope="row">Matcha Specialty</th>
-					<td>$4.75</td>
-					<td>$5.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Mocha Specialty</th>
-					<td>$5.25</td>
-					<td>$5.75</td>
-				</tr>
-				<tr>
-					<th scope="row">Steamer 1 flavor</th>
-					<td>$3.00</td>
-					<td>$3.50</td>
-				</tr>
-			</tbody>
-		</table>
-		<table>
-			<thead>
-				<tr>
-					<th class="coffee">Tea &amp; Other Drinks</th>
-					<td>Small 12 oz</td>
-					<td>Large 16 oz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<th scope="row">Loose Leaf</th>
-					<td>$3.50/pot</td>
-					<td></td>
-				</tr>
-				<tr>
-					<th scope="row">Iced Tea</th>
-					<td>$2.95</td>
-					<td>$3.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Iced Tea w/ Flavor Syrup</th>
-					<td>$3.45</td>
-					<td>$3.75</td>
-				</tr>
-				<tr>
-					<th scope="row">Italian Soda</th>
-					<td>$2.95</td>
-					<td>$3.25</td>
-				</tr>
-				<tr>
-					<th scope="row">Affogato</th>
-					<td>$4.50</td>
-					<td>$5.25</td>
-				</tr>
-			</tbody>
-		</table>
-		<table>
-			<thead>
-				<tr>
-					<th class="coffee">Add-ons</th>
-					<td></td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<th>Espresso Shot</th>
-					<td>$0.75/each</td>
-				</tr>
-				<tr>
-					<th>Flavor Shot</th>
-					<td>$0.50/each</td>
-				</tr>
-				<tr>
-					<th>Alternative Milk</th>
-					<td>$0.60</td>
-				</tr>
-			</tbody>
-		</table>
+	</section>
+	<section class="two-one">
+		<div>
+			<table>
+				<thead>
+					<tr>
+						<th class="coffee">Coffee</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th scope="row">Drip Coffee</th>
+						<th scope="row">Café Misto</th>
+					</tr>
+					<tr>
+						<th scope="row">Americano</th>
+						<th scope="row">Cappuccino</th>
+					</tr>
+					<tr>
+						<th scope="row">Latte</th>
+						<th scope="row">Chai</th>
+					</tr>
+					<tr>
+						<th scope="row">Matcha</th>
+						<th scope="row">Mocha</th>
+					</tr>
+					<tr>
+						<th scope="row">Cold Brew</th>
+						<th scope="row">Hot Chocolate</th>
+					</tr>
+					<tr>
+						<th scope="row">Shot in the Dark</th>
+						<th scope="row">Espresso Shots</th>
+					</tr>
+					<tr>
+						<th scope="row">Cafe con Miel</th>
+						<th scope="row">Breve</th>
+					</tr>
+					<tr>
+						<th scope="row">Dirty Chai</th>
+						<th scope="row">Matcha Specialty</th>
+					</tr>
+					<tr>
+						<th scope="row">Mocha Specialty</th>
+						<th scope="row">Steamer 1 flavor</th>
+					</tr>
+				</tbody>
+			</table>
+			<table>
+				<thead>
+					<tr>
+						<th class="coffee">Tea &amp; Other Drinks</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th scope="row">Loose Leaf</th>
+					</tr>
+					<tr>
+						<th scope="row">Iced Tea</th>
+					</tr>
+					<tr>
+						<th scope="row">Iced Tea w/ Flavor Syrup</th>
+					</tr>
+					<tr>
+						<th scope="row">Italian Soda</th>
+					</tr>
+					<tr>
+						<th scope="row">Affogato</th>
+					</tr>
+				</tbody>
+			</table>
+			<table>
+				<thead>
+					<tr>
+						<th class="coffee">Add-ons</th>
+						<td></td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th>Espresso Shot</th>
+					</tr>
+					<tr>
+						<th>Flavor Shot</th>
+					</tr>
+					<tr>
+						<th>Alternative Milk</th>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<div>
+			<figure>
+				<img src="/images/coffee-dessert.jpg" alt="quesadilla on white plate">
+				<figcaption>Drip Coffee</figcation>
+			</figure>	
+		</div>
+	</section>
+	<section>
+		<div class="waffles">
+			<h3>Specialty Blended Drinks</h3>
+			<div>
+				<h4>Smoothie (available in 16oz only)</h4>
+				<p>Real Frozen Fruit blended with Vanilla Greek Yogurt.</p>
+				<ol>
+					<li>Pick your Milk or Juice</li>
+					<li>Pick your Fruit - Strawberry, Banana, Blueberry, and Tropical Mix (peach, strawberry, pineapple and mango)</li>
+				</ol>
+			</div>
+			<div>
+				<h4>Frappe (available in 16oz only)</h4>
+				<p>Coffee or Creme Based<br>
+				Add flavor shots for additional cost<br>
+				Popular Combos ~ Cookies n' Cream, Turtle Mocha (Chocolate & Caramel), Caramel Delite (Caramel & Coconut)
+				</p>
+			</div>
+			<div>
+				<h4>Ice Cream Float (available in 16oz only)</h4>
+				<p>Two scoops of vanilla ice cream with Italian Soda, rootbeer, or pop.</p>
+			</div>
+			<div>
+				<h4>Frozen Lemonade (available in 16oz only)</h4>
+				<p>Blended lemonade or strawberry lemonade with ice.</p>
+			</div>
+		</div>
 		<div class="hr"><hr/></div>
+	</section>
+	<section>
+		<h2>Breakfast</h2>
 		<h3>Waffles</h3>
 		<table>
 			<tbody>
 				<tr>
 					<th>Waffle (Basic)</th>
-					<td>$6.75</td>
 				</tr>
 				<tr>
 					<th>Waffle (One-topping)</th>
-					<td>$7.75</td>
 				</tr>
 				<tr>
 					<th>Waffle (Two-topping)</th>
-					<td>$8.75</td>
-				</tr>
-				<tr>
-					<th>Lil' Whip</th>
-					<td>$0.25</td>
-				</tr>
-				<tr>
-					<th>Extra Whip</th>
-					<td>$0.99</td>
-				</tr>
-				<tr>
-					<th>Extra Topping</th>
-					<td>$0.99</td>
-				</tr>
-				<tr>
-					<th>Extra Waffle</th>
-					<td>$6.00</td>
 				</tr>
 			</tbody>
 		</table>
-		<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble, graham cracker crumble, granola, ham, cheddar, lettuce, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
-		<h4>Specialty Waffles</h4>
+		<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble*, graham cracker crumble*, granola*, ham, bacon, cheddar, spring mixed greens, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
+		<p>Gluten friendly and dairy-free waffle available</p>
+	</section>
+	<section class="two-one">
 		<div class="waffles">
+			<h3>Specialty Waffles</h3>
 			<div>
-				<h5>The Red Fern</h5>
-				<p>$9.00</p>
-				<p>homemade blueberry pie filling, granola, and whipped cream</p>
+				<h4>The Red Fern</h4>
+				<p>homemade blueberry pie filling, granola*, and whipped cream</p>
 			</div>
 			<div>
-				<h5>The School Bus</h5>
-				<p>$8.75</p>
+				<h4>The School Bus</h4>
 				<p>peanut butter and jelly</p>
 			</div>
 			<div>
-				<h5>The Rise n' Shine</h5>
-				<p>$9.00</p>
-				<p>yogurt with fresh berries and granola</p>
+				<h4>The Rise n' Shine</h4>
+				<p>yogurt with fresh berries and granola*</p>
 			</div>
 			<div>
-				<h5>The Fiery Redhead</h5>
-				<p>$8.75</p>
+				<h4>The Fiery Redhead</h4>
 				<p>marshmallow, chocolate, and caramel drizzle dusted with cayenne pepper</p>
 			</div>
 			<div>
-				<h5>Sir Hampton</h5>
-				<p>$9.50</p>
-				<p>ham, cheddar cheese, and raspberry jam</p>
+				<h4>Sir Hampton</h4>
+				<p>ham or bacon, cheddar cheese, and raspberry jam</p>
 			</div>
 			<div>
-				<h5>Herbie</h5>
-				<p>$8.25</p>
-				<p>goat cheese herb spread with marinated tomatoes<br>
-				~ with ham $9.50</p>
+				<h4>Herbie</h4>
+				<p>goat cheese herb crumble with tomatoes and spring mixed greens<br>
+				~ with ham or bacon</p>
 			</div>
 			<div>
-				<h5>Piece of Cake</h5>
-				<p>$8.75</p>
-				<p>sweetened cream cheese and graham cracker crumble<br>
-				~ with oreos $9.50<br>
-				~ with pie filling $9.50</p>
+				<h4>Piece of Cake</h4>
+				<p>sweetened cream cheese and graham cracker crumble*<br>
+				~ with oreos*<br>
+				~ with pie filling</p>
 			</div>
 			<div>
-				<h5>Torchy</h5>
-				<p>$9.50</p>
-				<p>marshmallow fluff, graham cracker crumble, and chocolate drizzle</p>
+				<h4>Torchy</h4>
+				<p>marshmallow fluff, graham cracker crumble*, and chocolate drizzle</p>
 			</div>
 			<div>
-				<h5>Bananarama</h5>
-				<p>$8.75</p>
+				<h4>Bananarama</h4>
 				<p>fresh banana with pecans and caramel drizzle</p>
 			</div>
 			<div>
-				<h5>My Neighbor's Waffle</h5>
-				<p>$6.50</p>
+				<h4>My Neighbor's Waffle</h4>
 				<p>a waffle for a future person who needs some comfort</p>
+			</div>
+			<div>
+				<p>* Gluten Friendly Option</p>
+				<p>~ $0.25 off discount for usage of reusable cup/container</p>
 			</div>
 		</div>
 		<div>
-			<p>~ $0.25 off discount for usage of reusable cup/container</p>
+			<figure>
+				<img src="/images/red-fern-waffle.jpeg" alt="Waffle topped with blueberry sauce, granola, and whipped cream">
+				<figcaption>The Red Fern</figcation>
+			</figure>
+			<figure>
+				<img src="/images/herbie-waffle.jpg" alt="waffle topped with mixed greens, tomatoes, and hummus">
+				<figcaption>Herbie</figcation>
+			</figure>
+			
+			
 		</div>
-		<div class="hr"><hr/></div>
-		<h3>To Go Breakfast</h3>
+	</section>		
+	<section class="two-one">
 		<div class="waffles">
+			<h3>Additional Breakfast Options</h3>
 			<div>
-				<h5>Bagel</h5>
-				<p>$2.50</p>
-				<p></p>
+				<h4>Bagel</h4>
 			</div>
 			<div>
-				<h5>Bagel with Smear</h5>
-				<p>$4.50</p>
-				<p></p>
+				<h4>Bagel with Smear</h4>
 			</div>
 			<div>
-				<h5>Eggie Bagel</h5>
-				<p>$6.99</p>
-				<p>ham, egg, and cheese<br>~ Extra ham, egg, or cheese for $0.99 each</p>
+				<h4>Eggie Bagel</h4>
+				<p>ham or bacon, egg, and cheese<br>~ Extra ham, bacon, egg, or cheese for $0.99 each</p>
 			</div>
 			<div>
-				<h5>Herbie Bagel</h5>
-				<p>$6.99</p>
-				<p>tomato, greens, and goat cheese</p>
+				<h4>Herbie Bagel</h4>
+				<p>tomatoes, greens, and goat cheese</p>
 			</div>
 			<div>
-				<h5>Sweetie Pie Bagel</h5>
-				<p>$6.99</p>
+				<h4>Sweetie Pie Bagel</h4>
 				<p>sweet cream and pie filling</p>
 			</div>
+			<div>
+				<h4>Parfait</h4>
+				<p>Vanilla greek yogurt, fresh berries, and granola*</p>
+			</div>
+			<div>
+				<p>* Gluten Friendly Option</p>
+			</div>
+		</div>
+		<div>
+			<figure>
+				<img src="/images/bagel.jpg" alt="egg, ham, and cheese on a bagel">
+				<figcaption>Eggie Bagel</figcation>
+			</figure>
+			<figure>
+				<img src="/images/parfait.jpg" alt="layers of yogurt, berries, and granola in a mason jar">
+				<figcaption>Parfait</figcation>
+			</figure>
+			
 		</div>
 		<div class="hr"><hr></div>
-		<h3>To Go Lunch</h3>
+	</section>
+	<section class="two-one">
 		<div class="waffles">
+			<h2>Lunch</h2>
 			<div>
-				<h5>Eggie Wrap</h5>
-				<p>$6.99</p>
-				<p>ham, egg, and cheese<br>~ Extra ham, egg, or cheese for $0.99 each</p>
+				<h4>Simple Small Salad</h4>
+				<p>Spring mixed greens topped with housemade goat cheese dressing or ranch. Customizable</p>
 			</div>
 			<div>
-				<h5>Herbie Wrap</h5>
-				<p>$6.99</p>
-				<p>tomato, greens, and goat cheese<br>~ with ham $7.99</p>
-			</div>
-			<div>
-				<h5>Sir Hampton Wrap</h5>
-				<p>$6.99</p>
-				<p>ham, cheese, spring greens<br>~ optional sauce: mayo or raspberry jam</p>
+				<h4>Quesadilla</h4>
+				<p>cheese<br>~ with ham or bacon</p>
 			</div>
 		</div>
-		<div class="hr"><hr/></div>
-		<h3>Desserts</h3>
+		<div>
+			
+			<figure>
+				<img src="/images/salad.jpg" alt="Mixed greens with tomatoes and feta on white plate">
+				<figcaption>Simple Salad</figcation>
+			</figure>
+			<figure>
+				<img src="/images/quesadilla.jpg" alt="quesadilla on white plate">
+				<figcaption>Quesadilla</figcation>
+			</figure>
+		</div>
+	</section>
+	<section class="two-one">
 		<div class="waffles">
+			<h3>Wraps or Waffle Sammich</h3>
 			<div>
-				<h5>Waffle Cake</h5>
+				<h4>Eggie</h4>
+				<p>ham or bacon, egg, and cheese<br>~ Extra ham, bacon, egg, or cheese for $0.99 each</p>
+			</div>
+			<div>
+				<h4>Herbie</h4>
+				<p>tomato, greens, and goat cheese<br>~ with ham or bacon</p>
+			</div>
+			<div>
+				<h4>Sir Hampton</h4>
+				<p>ham or bacon, cheese, spring greens<br>~ optional sauce: mayo or raspberry jam</p>
+			</div>
+			<h3>Grilled Sammies</h3>
+			<div>
+				<h4>Everything "Bagel" Sammie</h4>
+				<p>everything bagel seasoning, cream cheese, and cheddar on sourdough<br>~ optional sauce: mayo or raspberry jam</p>
+			</div>
+			<div>
+				<h4>Herbie Sammie</h4>
+				<p>tomato, greens, and goat cheese on sourdough<br>~ with ham or bacon</p>
+			</div>
+			<div>
+				<h4>The School Bus Sammie</h4>
+				<p>peanut butter and jelly on sourdough</p>
+			</div>
+			<div>
+				<h4>Sir Hammie Sammie</h4>
+				<p>ham or bacon, cheese, spring greens on sourdough<br>~ optional sauce: mayo or raspberry jam</p>
+			</div>
+			<div>
+				<h4>The Hummm... Sammie</h4>
+				<p>red pepper hummus, tomatoes, goat cheese, and greens</p>
+			</div>
+			<div>
+				<h4>Wisco Sammie</h4>
+				<p>just cheese if you please on sourdough</p>
+			</div>			
+		</div>
+		<div>
+			<figure>
+				<img src="/images/eggie-sammich.jpg" alt="">
+				<figcaption>Eggie Waffle Sammich</figcaption>
+			</figure>
+			<figure>
+				<img src="/images/hampton-sammich.jpg" alt="">
+				<figcaption>Hampton Waffle Sammich</figcaption>
+			</figure>
+		</div>
+		<div class="hr"><hr/></div>
+	</section>	
+	<section>
+		<div class="waffles">
+			<h3>Desserts</h3>
+			<div>
+				<h4>Waffle Cake</h4>
 				<p>$40</p>
 				<p>Four layers of waffle, each layer topped with a single pie filling of your choice. Options for pie filling are cranberry, strawberry, blueberry, and raspberry. Choices of frosting are buttercream (vanilla or chocolate) or whipped cream.<br>~ Please allow 48 hours for completion of cake order.</p>
+			</div>
+			<div>
+				<p><a href="tel:7158771280">Call</a> for current specials and Gluten friendly options</p><!--fix spacing on link-->
 			</div>
 		</div>
 		<div class="hr"><hr/></div>
 		<h3>Catering</h3>
 		<div class="waffles">
-			<h5>Waffles and Toppings</h5>
+			<h4>Waffles and Toppings</h4>
 			<p>$6 per waffle<br>
 			$4 per 4 oz. container of topping<br>or</p>
 			<p>$75 for a dozen waffles and two 4 oz. containers of toppings</p>
-			<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble, graham cracker crumble, granola, ham, cheddar, lettuce, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
+			<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble*, graham cracker crumble*, granola*, ham, bacon, cheddar, spring mixed greens, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
+		</div>
+		<div class="waffles">
+			<h4>Lunch Combo</h4>
+			<p>$10.50 per combo</p>
+			<p>Choose:</p>
+			<ul>
+				<li>Wrap, Panini, or Bagel Sandwich</li>
+				<li>Snack or fruit (apple, orange, or fruit cup)</li>
+				<li>Soda, drip coffee, or juice</li>
+			</ul>
 		</div>
 	</section>
 </main>

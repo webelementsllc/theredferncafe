@@ -25,6 +25,8 @@
 			<ul>
 				<li>Take one/leave one coffee collars</li>
 				<li>Collaboration with "Good To Go Cups" a business that has created a cup and an App where you can track and keep using fresh GTG cups when you turn in your old cup. Come in the store for more info or visit <a href="https://www.goodtogocups.com/our-cup">goodtopgocups.com</a></li>
+				<li>25 cents off purchase when using a reuseable cup</li>
+				<li>50 cents off purchase when using a "Good To Go Cup"</li>
 			</ul>
 		</div>
 		<img src="/images/good-to-cup.jpeg" alt="">
