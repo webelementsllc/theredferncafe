@@ -162,7 +162,7 @@ section{
 table{
     text-align: left;
     width:100%;
-    max-width: 30rem;
+    max-width: 60rem;
     margin: 1rem 0;
 }
 thead{
@@ -176,9 +176,6 @@ thead th{
 }
 tbody th, tbody td{
     padding:.25rem 0;
-}
-td{
-    text-align: right;
 }
 .headline{
     background-image: url(/images/red-fern-waffle.jpeg);

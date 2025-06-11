@@ -106,8 +106,9 @@
 	<section>
 		<div class="waffles">
 			<h3>Specialty Blended Drinks</h3>
+			<p>(available in 16oz only)</p>
 			<div>
-				<h4>Smoothie (available in 16oz only)</h4>
+				<h4>Smoothie</h4>
 				<p>Real Frozen Fruit blended with Vanilla Greek Yogurt.</p>
 				<ol>
 					<li>Pick your Milk or Juice</li>
@@ -115,18 +116,18 @@
 				</ol>
 			</div>
 			<div>
-				<h4>Frappe (available in 16oz only)</h4>
+				<h4>Frappe</h4>
 				<p>Coffee or Creme Based<br>
 				Add flavor shots for additional cost<br>
 				Popular Combos ~ Cookies n' Cream, Turtle Mocha (Chocolate & Caramel), Caramel Delite (Caramel & Coconut)
 				</p>
 			</div>
 			<div>
-				<h4>Ice Cream Float (available in 16oz only)</h4>
+				<h4>Ice Cream Float</h4>
 				<p>Two scoops of vanilla ice cream with Italian Soda, rootbeer, or pop.</p>
 			</div>
 			<div>
-				<h4>Frozen Lemonade (available in 16oz only)</h4>
+				<h4>Frozen Lemonade</h4>
 				<p>Blended lemonade or strawberry lemonade with ice.</p>
 			</div>
 		</div>
@@ -147,9 +148,17 @@
 					<th>Waffle (Two-topping)</th>
 				</tr>
 			</tbody>
+			<tfoot>
+				<tr>
+					<td>
+						<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble*, graham cracker crumble*, granola*, ham, bacon, cheddar, spring mixed greens, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
+					</td>
+				</tr>
+				<tr>
+					<th>Gluten friendly and dairy-free waffle available</th>
+				</tr>
+			</tfoot>
 		</table>
-		<p><strong>Toppings:</strong><br>~ sweetened cream cheese, blueberry pie filling, strawberry pie filling, yogurt, fresh berries, maple syrup, butter, powdered sugar, Oreo crumble*, graham cracker crumble*, granola*, ham, bacon, cheddar, spring mixed greens, herb goat cheese, peanut butter, marshmallow fluff, raspberry jam, banana, pecans</p>
-		<p>Gluten friendly and dairy-free waffle available</p>
 	</section>
 	<section class="two-one">
 		<div class="waffles">
